@@ -1,0 +1,16 @@
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\bin\Debug\net8.0-windows\Bt3.exe
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\bin\Debug\net8.0-windows\Bt3.deps.json
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\bin\Debug\net8.0-windows\Bt3.runtimeconfig.json
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\bin\Debug\net8.0-windows\Bt3.dll
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\bin\Debug\net8.0-windows\Bt3.pdb
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.Form1.resources
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.csproj.GenerateResource.cache
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.GeneratedMSBuildEditorConfig.editorconfig
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.AssemblyInfoInputs.cache
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.AssemblyInfo.cs
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.csproj.CoreCompileInputs.cache
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.dll
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\refint\Bt3.dll
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.pdb
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\Bt3.genruntimeconfig.cache
+D:\2280601122_BuiAnhHuy\Bt3\Bt3\obj\Debug\net8.0-windows\ref\Bt3.dll
